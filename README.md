@@ -1,4 +1,6 @@
 # physics
 Collection of small physics simulation projects...
 
-This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
+1D_band_model :
+
+Given a 1D toy model of a periodic lattice: $V(x)=\sqrt{x}$
